@@ -1,0 +1,34 @@
+﻿"Tabela 4709 - População residente, Variação absoluta de população residente e Taxa de crescimento geométrico"
+"Variável - População residente"
+"Nível";"Cód.";"Brasil e Grande Região";"Ano"
+"Nível";"Cód.";"Brasil e Grande Região";"2022"
+"BR";"1";"Brasil";"203080756";"Pessoas"
+"GR";"1";"  Norte";"17354884";"Pessoas"
+"GR";"2";"  Nordeste";"54658515";"Pessoas"
+"GR";"3";"  Sudeste";"84840113";"Pessoas"
+"GR";"4";"  Sul";"29937706";"Pessoas"
+"GR";"5";"  Centro-Oeste";"16289538";"Pessoas"
+"Fonte: IBGE - Censo Demográfico"
+
+"Notas"
+"1- Dados do Universo."
+"2- Para a obtenção da variação absoluta e da taxa de crescimento geométrico do período 2010/2022 foram utilizadas a população residente em 2010 (reconstituída de acordo com a base territorial de 2022) e a população residente em 2022, sendo que para este último ano foi incluída a população estimada (aproximadamente 8 milhões de habitantes) para os domicílios particulares permanentes ocupados sem entrevista."
+"3- Os dados apresentados foram atualizados em 27/10/23 e se referem aos dados coletados até o dia 28/05/2023, com a incorporação das revisões realizadas entre 29/05/2023 e 07/07/2023."
+"4- Os dados referentes aos municípios Abel Figueiredo (PA) e São Pedro da Água Branca (MA) foram corrigidos no dia 22/12/2023, impactando nos totais dos estados do Pará e do Maranhão e nos totais das Grandes Regiões do Norte e Nordeste."
+""
+"Legenda"
+"Símbolo";"Significado"
+"-";"Zero absoluto, não resultante de um cálculo ou arredondamento.
+Ex: Em determinado município não existem pessoas de 14 anos de idade sem instrução."
+"0";"Zero resultante de um cálculo ou arredondamento.
+Ex: A inflação do feijão em determinada Região Metropolitana foi 0.
+Determinado município produziu 400 kg de sementes de girassol e os dados da tabela são expressos em toneladas."
+"X";"Valor inibido para não identificar o informante.
+Ex: Determinado município só possui uma empresa produtora de cimento, logo o valor de sua produção deve ser inibido."
+"..";"Valor não se aplica.
+Ex: Não se pode obter o total da produção agrícola em determinado município quando os produtos agrícolas são contabilizados com unidades de medida distintas."
+"...";"Valor não disponível.
+Ex: A produção de feijão em determinado município não foi pesquisada ou determinado município não existia no ano da pesquisa."
+"A a Z
+(exceto X)";"Significa uma faixa de valores. Varia em função da tabela (se for o caso).
+Ex: O nível de precisão da produção estimada de combustíveis está na faixa A (95 a 100%)"
